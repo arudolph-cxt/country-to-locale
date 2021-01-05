@@ -1,9 +1,9 @@
 {
-    "name": "peterkahl/country-to-locale",
+    "name": "arudolph-cxt/country-to-locale",
     "type": "library",
     "description": "Converts country code to locale code.",
     "keywords": ["locale", "localization", "language-code"],
-    "homepage": "https://github.com/peterkahl/Country-to-Locale",
+    "homepage": "https://github.com/arudolph-cxt/country-to-locale",
     "license": "Apache-2.0",
     "authors": [
         {
